@@ -1,1 +1,3 @@
 # ShopManagement
+
+Simple databasemanagement system
